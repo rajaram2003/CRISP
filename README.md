@@ -4,6 +4,10 @@
 
 This project showcases a modern landing page built with **React**, styled with **Tailwind CSS**, and enhanced with animations using **Framer Motion**. The landing page is designed for **CRISP**, a fictional restaurant, featuring a clean layout, responsive design, and smooth transitions that enhance user experience.
 
+## Live Demo
+
+Check out the live project [here](https://yourusername.github.io/crisp-landing-page).
+
 ## Features
 
 - **Responsive Design**: Adapts seamlessly to various screen sizes.
