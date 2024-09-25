@@ -22,5 +22,5 @@ This project showcases a modern landing page built with **React**, styled with *
 # YouTube Tutorials
 **To help me build this project, i refer to the following YouTube channel that offers detailed tutorials on using React, Tailwind CSS, and Framer Motion:**
 
-## compiletab - This channel provide tutorial on this project.
-## JavaScript Mastery - This channel provides comprehensive tutorials on frontend development, including React, and Tailwind CSS. 
+## compiletab - **This channel provide tutorial on this project.**
+## JavaScript Mastery - **This channel provides comprehensive tutorials on frontend development, including React, and Tailwind CSS.** 
