@@ -17,4 +17,10 @@ This project showcases a modern landing page built with **React**, styled with *
 - **React**: JavaScript library for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **Framer Motion**: Animation library for React to create fluid animations.
-- **GitHub / Vercel: Deployed the project.
+- **GitHub / Vercel**: Deployment of project.
+
+# YouTube Tutorials
+**To help me build this project, i refer to the following YouTube channel that offers detailed tutorials on using React, Tailwind CSS, and Framer Motion:**
+
+## compiletab - This channel provide tutorial on this project.
+## JavaScript Mastery - This channel provides comprehensive tutorials on frontend development, including React, and Tailwind CSS. 
